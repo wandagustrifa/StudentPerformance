@@ -92,8 +92,11 @@ streamlit run app.py
 ## Business Dashboard
 ### Access Information
 Link Dashboard: http://localhost:3000/public/dashboard/8fd1c195-994d-4693-ab69-180b8b9856af
+
 URL: http://localhost:3000
+
 Username: root@mail.com
+
 Password: root123
 
 ### Dashboard Overview
@@ -168,8 +171,11 @@ Open browser ke http://localhost:8501
 Navigate melalui sidebar menu:
 
 🏠 Dashboard: Overview metrics
+
 🔮 Prediction: Individual/batch prediction
+
 📊 Analytics: Feature importance analysis
+
 ℹ️ About: Documentation
 
 ### Features Aplikasi
