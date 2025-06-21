@@ -159,6 +159,7 @@ Siswa dengan status legally-separated memiliki dropout rate tertinggi (hampir 70
 Web Application (Streamlit)
 
 URL: https://studentperformance-prediction.streamlit.app/
+
 Platform: Streamlit-based interactive application
 
 **1. Cara Menjalankan app**:
